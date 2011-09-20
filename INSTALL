@@ -1,0 +1,6 @@
+Lucene Required
+
+Parameters: 
+
+- index /my/index/dir /my/index/file.xml
+- search /my/index/dir cancer 

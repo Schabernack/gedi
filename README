@@ -1,0 +1,4 @@
+GeDi aims to link genetic diseases to genes and proteins causing them.
+It also works the other way round, listing the corresponding diseases when a gene/protein is provided.
+
+To achieve this, all pubmed article abstracts are scanned to find co-occurences of known genes or diseases.
